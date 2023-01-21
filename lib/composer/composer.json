@@ -1,0 +1,17 @@
+{
+    "name": "wef/calendar",
+    "description": "Caledário/Agenda com PHP.",
+    "authors": [
+        {
+            "name": "Caio Eduardo Vieira Flor",
+            "email": "caio.flor@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classe\\": "../class",
+            "Models\\": "../model"
+        }
+    }
+}
