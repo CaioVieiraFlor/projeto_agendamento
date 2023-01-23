@@ -10,7 +10,7 @@
 </head>
 <body>
     <?php 
-        $objeto = new Classe\ClassTeste();
+        $objeto = new Classe\ClassTeste;
     ?>
 </body>
 </html>
