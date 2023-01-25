@@ -13,18 +13,18 @@ class ComposerStaticInit559cc0d9a4322012787214d6179eb632
         ),
         'C' => 
         array (
-            'Classe\\' => 7,
+            'Classes\\' => 8,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Models\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/../model',
+            0 => __DIR__ . '/../..' . '/../../model',
         ),
-        'Classe\\' => 
+        'Classes\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/../class',
+            0 => __DIR__ . '/../..' . '/../../class',
         ),
     );
 

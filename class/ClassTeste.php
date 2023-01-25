@@ -1,5 +1,5 @@
 <?php
-    namespace Classe;
+    namespace Classes;
 
     class ClassTeste{
         public function __construct(){
